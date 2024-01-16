@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="paandree:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/paandree_jar2</output-path>
+    <root id="archive" name="paandree.jar">
+      <element id="module-output" name="paandree" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/java/lib_Lab_5/TestFactory.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
